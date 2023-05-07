@@ -7,3 +7,4 @@ Koodu iwaju-ipin ti oju opo wẹẹbu jẹ orisun ṣiṣi, kaabọ lati ṣe ir
 * [iwaju-opin koodu](https://github.com/xxai-art/web)
 * [Awọn akopọ ede fun aaye naa lapapọ](https://github.com/xxai-art/web/tree/main/i18n)
 * [Awọn akopọ ede fun awọn modulu iwọle](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Oju opo wẹẹbu Multilingual Documentation](https://github.com/xxai-doc)
